@@ -1,2 +1,14 @@
 # datastructureusing-c
-basic c programs for data structure 
+Basic C programs for data structure 
+
+* Write a program to implement a stack using the static method.
+* Programs to implement applications of stack. 
+* Write a program to implement Queue using the static method. 
+* Programstoimplementapplicationsofqueue. 
+* Write a program to create LinkedList, add nodes to the linked list and Remove nodes from LinkedList. 
+* Write a program to implement types of linked lists. 
+* Write a program to implement stack and queue dynamically. 
+* Write a program to sort given elements using bubble sort, insertion sort, selection sort 
+* Write a program to search a given element using Linear Search. 
+* Write a program to search a given element using Binary Search.
+
