@@ -1,10 +1,10 @@
 # datastructureusing-c
 [Merge Sort PPT](https://1drv.ms/p/s!AnXkbtEEfj3XhgOkAYuybWlXlDae?e=fFNmtq)
 ### PDF Resources
-1. [NCERT]()
-2. [Stacks]()
-3. [Stack VS Ques]()
-4. [Stack & Ques Notes]()
+1. [NCERT](https://drive.google.com/file/d/1QDfTuGSUz18AyDYK_YG_w0uXUSv-xpXx/view?usp=sharing)
+2. [Stacks](https://drive.google.com/file/d/16Q5mhoMIK7OfoTXokIU0R4ifc-IyAlno/view?usp=sharing)
+3. [Stack VS Ques](https://drive.google.com/file/d/1JCkZtDj3oJyrXeUMkJvkA3ug8dcXb_ln/view?usp=sharing)
+4. [Stack & Ques Notes](https://drive.google.com/file/d/1OuUC9lj-C_8oAphWcgNtKa9vwXBKwbVe/view?usp=sharing)
 ### Basic C programs for data structure 
 
 * Write a program to implement a stack using the static method.
