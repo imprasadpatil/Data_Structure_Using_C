@@ -3,8 +3,14 @@
 ### PDF Resources
 1. [NCERT](https://drive.google.com/file/d/1QDfTuGSUz18AyDYK_YG_w0uXUSv-xpXx/view?usp=sharing)
 2. [Stacks](https://drive.google.com/file/d/16Q5mhoMIK7OfoTXokIU0R4ifc-IyAlno/view?usp=sharing)
-3. [Stack VS Ques](https://drive.google.com/file/d/1JCkZtDj3oJyrXeUMkJvkA3ug8dcXb_ln/view?usp=sharing)
-4. [Stack & Ques Notes](https://drive.google.com/file/d/1OuUC9lj-C_8oAphWcgNtKa9vwXBKwbVe/view?usp=sharing)
+3. [Stack VS Queue](https://drive.google.com/file/d/1JCkZtDj3oJyrXeUMkJvkA3ug8dcXb_ln/view?usp=sharing)
+4. [Stack & Queue Notes](https://drive.google.com/file/d/1OuUC9lj-C_8oAphWcgNtKa9vwXBKwbVe/view?usp=sharing)
+----------------------------------------------------------------------------------------------------------------
+5. [Circular Queue](https://docs.google.com/document/d/1GBln2yuOpW7Ucb14M9jukZ9n9MuWWjGy/edit?usp=sharing&ouid=106374626842527939707&rtpof=true&sd=true)
+6. [Linked List](https://docs.google.com/document/d/1yVTwKo1Ux_pgXqy0KTuONEUOPTvMngIj/edit?usp=sharing&ouid=106374626842527939707&rtpof=true&sd=true)
+7. [Queue in Data Structure](https://docs.google.com/document/d/1u6F5aweqZ94odlgXNYJ1jeKEU3AVIPE5/edit?usp=sharing&ouid=106374626842527939707&rtpof=true&sd=true)
+8. [Stack Using Array](https://docs.google.com/document/d/1EucZBEbYEDYWMaVpR9a6KFLxk-AKoYR-/edit?usp=drive_link&ouid=106374626842527939707&rtpof=true&sd=true)
+9. [Types of Queue](https://docs.google.com/document/d/12fUt_df4g4zRue8CcVBH0t380pY4iVdq/edit?usp=sharing&ouid=106374626842527939707&rtpof=true&sd=true)
 ### Basic C programs for data structure 
 
 * Write a program to implement a stack using the static method.
