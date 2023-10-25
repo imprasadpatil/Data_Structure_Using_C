@@ -8,7 +8,7 @@
 
 #define CAPACITY 5 
 
-// Universal decleration  
+// Universal declaration  
 
 int stack[CAPACITY]; 
 
