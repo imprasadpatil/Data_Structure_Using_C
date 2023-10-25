@@ -13,7 +13,7 @@
 9. [Types of Queue](https://docs.google.com/document/d/12fUt_df4g4zRue8CcVBH0t380pY4iVdq/edit?usp=sharing&ouid=106374626842527939707&rtpof=true&sd=true)
 ### Basic C programs for data structure 
 
-* Write a program to implement a stack using the static method.
+* [Write a program to implement a stack using the static method.](https://github.com/imprasadpatil/datastructureusing-c/blob/main/stack_implimentation_static%20_method.c)
 * Programs to implement applications of stack. 
 * Write a program to implement Queue using the static method. 
 * Program to implement applications of queue. 
