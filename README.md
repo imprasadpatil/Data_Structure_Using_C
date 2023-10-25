@@ -16,7 +16,7 @@
 * Write a program to implement a stack using the static method.
 * Programs to implement applications of stack. 
 * Write a program to implement Queue using the static method. 
-* Programstoimplementapplicationsofqueue. 
+* Program to implement applications of queue. 
 * Write a program to create LinkedList, add nodes to the linked list and Remove nodes from LinkedList. 
 * Write a program to implement types of linked lists. 
 * Write a program to implement stack and queue dynamically. 
