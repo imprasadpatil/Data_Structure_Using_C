@@ -1,4 +1,9 @@
-# datastructureusing-c
+# Data Structure Using-C
+## DS Journal Sample
+[Journal Sample](https://1drv.ms/b/s!AnXkbtEEfj3XhilV55UKPX7N-2L3?e=hMhaAK)
+
+
+#### PPT
 [Merge Sort PPT](https://1drv.ms/p/s!AnXkbtEEfj3XhgOkAYuybWlXlDae?e=fFNmtq)
 ### PDF Resources
 1. [NCERT](https://drive.google.com/file/d/1QDfTuGSUz18AyDYK_YG_w0uXUSv-xpXx/view?usp=sharing)
